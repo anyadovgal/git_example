@@ -1,0 +1,6 @@
+# all file types that I want to ignore.
+*.out
+*.o
+*.x
+output
+# ^ an imaginary output folder that i have created.
